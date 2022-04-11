@@ -66,13 +66,11 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ```
 
 ## Output:
-![](m1.png)
-![](m2.png)
-![](m3.png)
-![](m4.png)
-![](m5.png)
-![](m6.png)
-![](m7.png)
-![](m8.png)
+![](img1.png)
+![](img2.png)
+![](img3.png)
+![](img4.png)
+![](img5.png)
+![](img6.png)
 ## Result:
 Hence the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is completed and verified using python programming.
